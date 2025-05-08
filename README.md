@@ -91,3 +91,4 @@ pip install diffusers transformers torch torchvision tqdm torchmetrics pandas ma
 
 For any questions, feel free to reach out.  
 黃昱豪 @ National Chung Cheng University（中正大學）
+yuhaohuang1102@gmail.com
